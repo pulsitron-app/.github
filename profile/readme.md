@@ -1,5 +1,5 @@
 Thanks for reaching out 👋
 
-__[Vivalerts](https://vivalerts.com) source code is hosted at [GitLab](https://gitlab.com/vivalerts)!__
+**[Pulsitron](https://pulsitron.com)** is a calm news digest.
 
-Your contributions are more than welcome ❤️
+Source code and contributions live on **[GitLab](https://gitlab.com/pulsitron-app)**. Issues and merge requests are welcome ❤️
